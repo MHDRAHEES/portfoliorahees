@@ -1,0 +1,8 @@
+
+{
+  "name": "Muhammed Rahees Portfolio",
+  "description": "A high-end, interactive professional portfolio for Muhammed Rahees, a Senior Frontend Developer and ERP Specialist, featuring an AI-powered resume assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
