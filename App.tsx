@@ -3,7 +3,7 @@ import React from 'react';
 import { CV_DATA } from './constants';
 import { Navbar } from './components/Navbar';
 import { SectionHeading } from './components/SectionHeading';
-import { AIChatAssistant } from './components/AIChatAssistant';
+// import { AIChatAssistant } from './components/AIChatAssistant';
 
 const App: React.FC = () => {
   return (
@@ -274,7 +274,7 @@ const App: React.FC = () => {
         </div>
       </footer>
 
-      <AIChatAssistant />
+      {/* <AIChatAssistant /> */}
     </div>
   );
 };
